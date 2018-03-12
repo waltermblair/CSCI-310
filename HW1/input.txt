@@ -1,0 +1,16 @@
+Input	Hawk	Fox	Robin	Lizard	Millipede	Earthworm	Maggots	Pill bugs	Bacteria	Cricket	Fungus	Dead animals	Dead leaves	Live leaves	Rotting log
+Hawk	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Fox	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+Robin	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+Lizard	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+Millipede	0	0	1	1	0	0	0	0	0	0	0	1	0	0	0
+Earthworm	0	0	1	1	0	0	0	0	0	0	0	1	0	0	0
+Maggots	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0
+Pill bugs	0	0	1	1	0	0	0	0	0	0	0	1	0	0	0
+Bacteria	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0
+Cricket	0	0	1	1	0	0	0	0	0	0	0	1	0	0	0
+Fungus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Dead animals	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0
+Dead leaves	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0
+Live leaves	0	0	0	0	0	0	0	0	0	1	0	0	1	0	1	
+Rotting log	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0										
